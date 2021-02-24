@@ -8,3 +8,21 @@ body {
 	background-attachment: fixed;
 	background-size: cover;
 }
+
+li {
+	text-align: left;
+}
+
+.container {
+	font-family: 'Barlow', sans-serif;
+}
+
+/* @media only screen and (min-width: 992px) {
+	.subh {
+		margin: 10px 200px 15px 200px;
+	}
+} */
+
+h1 {
+	color: white;
+}
