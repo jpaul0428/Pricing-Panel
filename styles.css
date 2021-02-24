@@ -1,0 +1,10 @@
+ul {
+	list-style: none;
+}
+
+body {
+	background-image: url(https://cdn.pixabay.com/photo/2019/07/12/18/22/lamp-4333322_960_720.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
